@@ -1,5 +1,6 @@
 # Photoservice
 Simple API for [Photosender](https://github.com/ashchuk/photosender) app
+
 Hosted on [Openshift 2](https://www.openshift.com/)
 
 ## API reference
